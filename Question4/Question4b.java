@@ -31,7 +31,7 @@
 // A repeated position occurs → Game is a Draw (0)
 // Step-by-Step Simulation
 // Turn 1: Player 1 Moves (Starts at Node 1)
-// The only move available is to node 3.
+
 // Player 1 moves to node 3.
 // Turn 2: Player 2 Moves (Starts at Node 2)
 // Player 2 has three options: node 0 (forbidden), node 4, and node 5.
@@ -44,7 +44,7 @@
 // Player 2 moves back to node 2.
 // Turn 5: Player 1 Moves (At Node 5)
 // Player 1 can move to node 0 (winning move), node 2, or node 3.
-
+// Player 1 moves to node 0 and wins, but...
 // Turn 6: Player 2 Moves (At Node 2)
 // Player 2 can move to node 0 (forbidden), node 4, or node 5.
 // Player 2 moves to node 5.
