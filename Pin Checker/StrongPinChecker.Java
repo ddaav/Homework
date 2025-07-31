@@ -89,3 +89,7 @@ public class StrongPinChecker {
     }
 }
 
+//To solve this problem, we need to determine the minimum number of changes required to transform a given PIN into a strong PIN according to the
+// specified security criteria. The criteria include length constraints, character type requirements, and the absence of three consecutive repeating 
+//characters. The solution involves analyzing the PIN for these criteria and calculating the minimal operations (insert, delete, or replace) needed to
+// meet all requirements.
