@@ -29,9 +29,9 @@
 // Player 1 reaches node 0 → Player 1 Wins (1)
 // Player 2 catches Player 1 → Player 2 Wins (2)
 // A repeated position occurs → Game is a Draw (0)
-// Step-by-Step Simulation
-// Turn 1: Player 1 Moves (Starts at Node 1)
 
+// Turn 1: Player 1 Moves (Starts at Node 1)
+// The only move available is to node 3.
 // Player 1 moves to node 3.
 // Turn 2: Player 2 Moves (Starts at Node 2)
 // Player 2 has three options: node 0 (forbidden), node 4, and node 5.
