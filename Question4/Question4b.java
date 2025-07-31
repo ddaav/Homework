@@ -47,10 +47,10 @@
 // Player 1 moves to node 0 and wins, but...
 // Turn 6: Player 2 Moves (At Node 2)
 // Player 2 can move to node 0 (forbidden), node 4, or node 5.
-// Player 2 moves to node 5.
+
 // Cycle Detection and Draw Condition
 // The same positions start repeating (nodes 3, 5, 4, and 2).
-
+// The game enters a loop.
 // Since no player forces a win, the game results in a draw (0).
 // Final Output:
 // Output: 0 (Draw)
