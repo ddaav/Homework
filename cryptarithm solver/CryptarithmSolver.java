@@ -73,5 +73,3 @@ public class CryptarithmSolver {
     }
 }
 
-//Cryptarithms are puzzles where words represent numbers, and each letter is a unique digit from 0–9. The goal is to assign digits to letters such that
-//the arithmetic operation (like addition) is correct. No two letters can have the same digit, and words must not start with 0.
