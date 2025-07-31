@@ -62,7 +62,9 @@ public class AlgoStartRevenueMaximizer {
     }
 }
 
-
+//The projects are stored in a 2D array where each entry consists of the investment required and the revenue gain. This array is then sorted based
+// on the investment amount in ascending order.  A max-heap is used to efficiently retrieve the project with the highest revenue from the set of
+// currently affordable projects.
 
 
 
